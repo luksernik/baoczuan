@@ -14,16 +14,16 @@
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
-  margin-top: 3.5rem !important; /* adds more space above */
-  margin-bottom: 2rem;
+  margin-top: 5rem !important; /* adds more space above */
+  margin-bottom: 0.5em;
 }
 
 /* 4. Smaller top and bottom margins for horizontal rule (---) */
 .markdown-preview-view hr {
-  margin-top: 0.75rem;
+  margin-top: 0.25rem;
   margin-bottom: 0.75rem;
 }
 
 .theme-light {
-    font-family: Georgia;
+    font-family: Yrsa;
 }
