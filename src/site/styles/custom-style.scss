@@ -12,14 +12,15 @@
 .markdown-preview-view h1,
 .markdown-preview-view h2,
 .markdown-preview-view h3 {
-  margin-top: 4rem !important; /* adds more space above */
+  margin-top: 6rem !important;
   margin-bottom: 0em;
 }
 
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6 { 
-  margin-bottom: -1rem; 
+  margin-top: 1rem
+  margin-bottom: -0.5rem; 
 }
 
 
@@ -27,20 +28,9 @@
 /* Horizontal line margins  */
 .markdown-preview-view hr {
   margin-top: 0.5rem;
-  margin-bottom: -1rem;
+  margin-bottom: 0rem;
 }
 
-
-/* Make editor and preview fill more of the screen */
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer,
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-  max-width: 60rem !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-.markdown-preview-sizer {
-  padding: 1rem 2rem !important;
-}
 
 
 /* Fonts  */
