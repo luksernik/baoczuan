@@ -1,34 +1,32 @@
-body {
-    /* 1. Smaller margins for preview content */
-    .markdown-preview-view {
-      padding: 1rem;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    
-    /* 2. Align images to right side with text wrapping */
-    .markdown-preview-view img {
-      float: right;
-      margin: 0 0 1rem 1rem; /* top, right, bottom, left */
-      max-width: 40%; /* prevent oversized images */
-      height: auto;
-      display: block;
-    }
-    
-    /* 3. Larger top margins for all headings */
-    .markdown-preview-view h1,
-    .markdown-preview-view h2,
-    .markdown-preview-view h3,
-    .markdown-preview-view h4,
-    .markdown-preview-view h5,
-    .markdown-preview-view h6 {
-      margin-top: 2.5rem !important; /* adds more space above */
-      margin-bottom: 1rem;
-    }
-    
-    /* 4. Smaller top and bottom margins for horizontal rule (---) */
-    .markdown-preview-view hr {
-      margin-top: 0.75rem;
-      margin-bottom: 0.75rem;
-    }
+/* 1. Smaller margins for preview content */
+.markdown-preview-view {
+  padding: 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* 2. Align images to right side with text wrapping */
+.markdown-preview-view img {
+  float: right;
+  margin: 0 0 1rem 1rem; /* top, right, bottom, left */
+  max-width: 40%; /* prevent oversized images */
+  height: auto;
+  display: block;
+}
+
+/* 3. Larger top margins for all headings */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-top: 2.5rem !important; /* adds more space above */
+  margin-bottom: 1rem;
+}
+
+/* 4. Smaller top and bottom margins for horizontal rule (---) */
+.markdown-preview-view hr {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
