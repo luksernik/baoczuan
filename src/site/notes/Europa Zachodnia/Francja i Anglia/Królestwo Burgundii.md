@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/europa-zachodnia/francja-i-anglia/krolestwo-burgundii/"}
 ---
 
-
 ## Władcy Burgundii:
 ---
 ##### Dynastia Burgundzka (gąłąź dynastii Walezjuszów):
