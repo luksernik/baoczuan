@@ -24,10 +24,6 @@
   margin-bottom: 0.75rem;
 }
 
-.theme-light {
-    font-family: Yrsa;
-}
-
 /* Make editor and preview fill more of the screen */
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer,
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
@@ -39,4 +35,19 @@
 /* Optional: Also reduce padding in general for better screen use */
 .markdown-preview-sizer {
   padding: 1rem 2rem !important;
+}
+
+.markdown-source-view,
+.markdown-preview-view {
+  font-family: Yrsa;
+}
+
+h1, h2, h3, h4, h5, h6,
+.markdown-preview-section h1,
+.markdown-preview-section h2,
+.markdown-preview-section h3,
+.markdown-preview-section h4,
+.markdown-preview-section h5,
+.markdown-preview-section h6 {
+  font-family: Yrsa !important;
 }
