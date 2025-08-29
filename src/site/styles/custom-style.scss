@@ -1,4 +1,4 @@
-/* 2. Align images to right side with text wrapping */
+/* Align images to right side with text wrapping */
 .markdown-preview-view img {
   float: right;
   margin: 0 0 2rem 2rem; /* top, right, bottom, left */
@@ -7,22 +7,29 @@
   display: block;
 }
 
-/* 3. Larger top margins for all headings */
+
+/* Headlines margins */
 .markdown-preview-view h1,
 .markdown-preview-view h2,
-.markdown-preview-view h3,
-.markdown-preview-view h4,
-.markdown-preview-view h5,
-.markdown-preview-view h6 {
-  margin-top: 7.5rem !important; /* adds more space above */
-  margin-bottom: 0.5em;
+.markdown-preview-view h3 {
+  margin-top: 4rem !important; /* adds more space above */
+  margin-bottom: 0em;
 }
 
-/* 4. Smaller top and bottom margins for horizontal rule (---) */
-.markdown-preview-view hr {
-  margin-top: 0.25rem;
-  margin-bottom: 0.75rem;
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 { 
+  margin-bottom: -1rem; 
 }
+
+
+
+/* Horizontal line margins  */
+.markdown-preview-view hr {
+  margin-top: 0.5rem;
+  margin-bottom: -1rem;
+}
+
 
 /* Make editor and preview fill more of the screen */
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-contentContainer,
@@ -31,17 +38,16 @@
   padding-left: 2rem;
   padding-right: 2rem;
 }
-
-/* Optional: Also reduce padding in general for better screen use */
 .markdown-preview-sizer {
   padding: 1rem 2rem !important;
 }
 
+
+/* Fonts  */
 .markdown-source-view,
 .markdown-preview-view {
   font-family: Yrsa;
 }
-
 h1, h2, h3, h4, h5, h6,
 .markdown-preview-section h1,
 .markdown-preview-section h2,
