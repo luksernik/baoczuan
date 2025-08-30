@@ -6,17 +6,27 @@
 > [!infobox|wikipedia]+
 > # Henryk V Angevin  
 > ![Henryk V Angevin.png|cover hsmall](/img/user/images/Henryk%20V%20Angevin.png)  
-> ###### Król Anglii  
+>###### Król Anglii  
 > **Panowanie** |  1413-1455 |  
 > ---|---|  
-> **Poprzednik** | [[Europa Zachodnia/Francja i Anglia/Henryk IV Plantagenet\|Henryk IV Plantagenet]] |  
-> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] |  
+> **Poprzednik** | [[Europa Zachodnia/Francja i Anglia/Henryk IV Plantagenet\|Henryk IV Plantagenet]]
+> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]]
 > ###### Król Francji  
 > **Panowanie** |  1422-1455 |  
 > ---|---|
 > **Poprzednik** | [[Karol VI Szalony\|Karol VI Szalony]] 
 > **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] 
-> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] 
+>  ###### Informacje ogólne
+>   **Dynastia** | [[Dynastia Plantagenetów\|Dynastia Plantagenetów]] | 
+>   ---|---|
+> **Narodziny** | 1393, Monmouth | 
+> **Śmierć** | 1455, Paryż | 
+> **Żona** | [[Katarzyna Walezyjska\|Katarzyna Walezyjska]] | 
+> **Dzieci** | [[Henryk Szalony\|Henryk Szalony]]<br>[[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]]<br>[[Europa Zachodnia/Francja i Anglia/Wiktoria Luiza\|Wiktoria Luiza]] | 
+>**Ojciec** | [[Europa Zachodnia/Francja i Anglia/Henryk IV Plantagenet\|Henryk IV Plantagenet]] | 
+>**Matka** | Maria Bohun |
+
+
 
 
 **Henryk V Plantagenet, Henryk V Angevin** (ur. 1393 w Monmouth, zm. 1455 w Paryżu) - Syn [[Europa Zachodnia/Francja i Anglia/Henryk IV Plantagenet\|Henryka IV Plantageneta]] oraz Bianki Leighton.
