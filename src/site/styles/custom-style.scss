@@ -34,10 +34,10 @@ h1, h2, h3, h4, h5, h6,
 .markdown-preview-section h3,
 .markdown-preview-section h4,
 .markdown-preview-section h5,
-.markdown-preview-section h6 {
+.markdown-preview-section h6,
+.callout.callout[data-callout~=infobox] {
   font-family: Yrsa !important;
 }
-
 
 
 /*Infobox*/
