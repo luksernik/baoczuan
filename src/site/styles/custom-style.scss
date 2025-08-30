@@ -1,13 +1,3 @@
-/* Align images to right side with text wrapping */
-.markdown-preview-view img {
-  float: right;
-  margin: 0 0 2rem 2rem; /* top, right, bottom, left */
-  max-width: 30%; /* prevent oversized images */
-  height: auto;
-  display: block;
-}
-
-
 /* Headlines margins */
 .markdown-preview-view h1,
 .markdown-preview-view h2,
