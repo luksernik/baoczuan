@@ -13,12 +13,10 @@
 > **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] |  
 > ###### Król Francji  
 > **Panowanie** |  1422-1455 |  
-> ---|---|---|
-> **Poprzednik** | [[Karol VI Szalony\|Karol VI Szalony]] |  
-> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] |  
-> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] |  dsas
-
-
+> ---|---|
+> **Poprzednik** | [[Karol VI Szalony\|Karol VI Szalony]] 
+> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] 
+> **Następca** | [[Europa Zachodnia/Francja i Anglia/Ryszard III Poeta\|Ryszard III Poeta]] 
 
 
 **Henryk V Plantagenet, Henryk V Angevin** (ur. 1393 w Monmouth, zm. 1455 w Paryżu) - Syn [[Europa Zachodnia/Francja i Anglia/Henryk IV Plantagenet\|Henryka IV Plantageneta]] oraz Bianki Leighton.
