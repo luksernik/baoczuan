@@ -17,7 +17,7 @@
 > ###### Ważniejsi Władcy 
 > **Królowie Kastylii-Leónu** | |
 > ---|---|  
-> - 1350-1405 | [[Piotr I Sprawiedliwy\|Piotr I Sprawiedliwy]] |  
+> - 1350-1405 | [[Piotr I Sprawiedliwy\|Piotr I Sprawiedliwy]]
 > - 1405-1409 | [[Europa Zachodnia/Iberia/Alfonso XII Okrutny\|Alfonso XII Okrutny]]
 > - 1415-1422 | [[Ferdynand V Waleczny\|Ferdynand V Waleczny]]
 
