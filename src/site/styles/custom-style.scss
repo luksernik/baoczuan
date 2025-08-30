@@ -49,6 +49,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 
+
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile .is-live-preview,
@@ -74,9 +75,8 @@ h1, h2, h3, h4, h5, h6,
   border: 0;
   box-shadow: none;
   width: auto;
-  max-width: 300px;
+  max-width: 20rem;
   float: right;
-  border-radius: var(--radius-s);
   margin-left:2rem;
 }
 
@@ -86,25 +86,10 @@ h1, h2, h3, h4, h5, h6,
   align-items: center;
   align-self: center;
 }
-.callout.callout[data-callout~=infobox] > .callout-title > .callout-icon {
-  align-self: center;
-}
-.callout.callout[data-callout~=infobox]:not(.is-collapsed) > .callout-title {
-  padding: 0;
-}
-.callout.callout[data-callout~=infobox] .callout-fold {
-  padding-right: 0;
-}
-.callout.callout[data-callout~=infobox].is-collapsed .callout-fold {
-  border: 1px solid var(--hr, var(--background-modifier-border));
-  border-radius: var(--radius-m);
-}
 .callout.callout[data-callout~=infobox] > .callout-title .callout-title-inner {
   display: none;
 }
-.callout.callout[data-callout~=infobox] > .callout-title .callout-icon {
-  height: 0;
-}
+
 .callout.callout[data-callout~=infobox]:not([data-callout-metadata~=show-title],
 [data-callout-metadata~=s-t],
 [data-callout-metadata~=show-icon],
@@ -112,37 +97,14 @@ h1, h2, h3, h4, h5, h6,
   width: 0;
   height: 0;
 }
-.callout.callout[data-callout~=infobox]:not(:hover):not(.is-collapsed) > .callout-title {
-  background-color: transparent;
-}
-.callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]):not(.is-collapsed) > .callout-title, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]):not(.is-collapsed) > .callout-title {
-  display: flex;
-  gap: 0;
-}
-.callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]).is-collapsed > .callout-title, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]).is-collapsed > .callout-title {
-  border: 1px solid var(--hr, var(--background-modifier-border));
-  display: flex;
-  align-items: center;
-  align-content: center;
-}
-.callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]) .callout-title .callout-title-inner, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]) .callout-title .callout-title-inner {
-  display: unset;
-  align-items: center;
-  align-content: center;
-  padding: 5px 10px;
-}
-.callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]) .callout-fold, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]) .callout-fold {
-  margin-top: auto;
-  margin-bottom: auto;
-}
-.callout.callout[data-callout~=infobox] > .callout-content > .callout[data-callout~=infobox]:not([data-callout-metadata~=no-t]).is-collapsed .callout-fold, .callout.callout[data-callout~=infobox]:is([data-callout-metadata~=show-title], [data-callout-metadata~=s-t]).is-collapsed .callout-fold {
-  border: 0;
-}
+
+
 .callout.callout[data-callout~=infobox] > .callout-content {
   border: 1px solid var(--table, var(--background-modifier-border));
   margin: 0;
   border-radius: var(--radius-s);
 }
+
 .callout.callout[data-callout~=infobox] table {
   width: 100%;
 }
