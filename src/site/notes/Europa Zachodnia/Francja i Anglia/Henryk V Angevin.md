@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox|]+
+> [!infobox|wikipedia]+
 > # Henryk V Angevin  
 > ![Henryk V Angevin.png|cover hsmall](/img/user/images/Henryk%20V%20Angevin.png)  
 > ###### Król Anglii  
