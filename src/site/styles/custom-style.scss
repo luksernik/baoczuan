@@ -40,7 +40,9 @@ h1, h2, h3, h4, h5, h6,
 }
 
 
-/*Infobox*/
+/*---- Infobox ----*/
+
+/*Makes it fill whole page while on mobile*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile .is-live-preview,
 .is-live-preview :not(.markdown-rendered)) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) {
@@ -51,35 +53,22 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .callout.callout[data-callout~=infobox] {
-  --callout-color: var(--note, var(--background-primary));
+  --callout-color: red; /*This makes button black */
   --callout-padding: 0;
   --callout-content-padding: 5px;
-  --callout-margin: 0 0 0 5px;
-  background: var(--note, var(--background-primary));
-  --h1-border-line-height: 0;
-  --h2-border-line-height: 0;
-  --h3-border-line-height: 0;
-  --h4-border-line-height: 0;
-  --h5-border-line-height: 0;
-  --h6-border-line-height: 0;
-  border: 0;
-  box-shadow: none;
+  border: 0; 
   width: auto;
   max-width: 20rem;
   float: right;
   margin-left:2rem;
 }
 
-/*This funny button on top*/ 
+/*Centers button*/ 
 .callout.callout[data-callout~=infobox] > .callout-title {
   justify-content: center;
   align-items: center;
   align-self: center;
 }
-.callout.callout[data-callout~=infobox] > .callout-title .callout-title-inner {
-  display: none;
-}
-
 .callout.callout[data-callout~=infobox]:not([data-callout-metadata~=show-title],
 [data-callout-metadata~=s-t],
 [data-callout-metadata~=show-icon],
@@ -88,38 +77,43 @@ h1, h2, h3, h4, h5, h6,
   height: 0;
 }
 
+/*No infobox sign*/ 
+.callout.callout[data-callout~=infobox] > .callout-title .callout-title-inner {
+  display: none;
+}
 
+/*This makes so margin isnt this bad*/ 
 .callout.callout[data-callout~=infobox] > .callout-content {
   border: 1px solid var(--table, var(--background-modifier-border));
   margin: 0;
   border-radius: var(--radius-s);
 }
 
-.callout.callout[data-callout~=infobox] table {
-  width: 100%;
-}
-.callout.callout[data-callout~=infobox] table td {
-  white-space: pre-wrap;
-  word-wrap: normal;
-  word-break: normal;
-}
+
 .callout.callout[data-callout~=infobox] :is(p, table) {
   margin-block-start: 0;
   margin-block-end: 0;
   margin: 0;
 }
 
-/*IMPORTANT this defines header*/ 
-.callout.callout[data-callout~=infobox] .callout-content > :is(h1, h2, h3, h4, h5, h6) {
-  font-size: 20px;
+/*Header definitions*/ 
+.callout.callout[data-callout~=infobox] .callout-content > :is(h1, h2, h3, h4, h5, h6){
   text-align: center;
   margin: 0;
-  padding: 2px;
+  padding: 4px;
   color: var(--text-normal);
-  background: var(--outer-bar, var(--background-secondary));
+  background: var(--text-selection);
 }
+.callout.callout[data-callout~=infobox] .callout-content > :is(h1, h2, h3) {
+	  font-size: 22px;
+} 
+.callout.callout[data-callout~=infobox] .callout-content > :is(h4, h5, h6) {
+	  margin-top: 10px;
+	  font-size: 18px;
+} 
 
-/*IMPORTANT this centers image*/ 
+
+/*This centers image*/ 
 .callout.callout[data-callout~=infobox] .internal-embed, .callout.callout[data-callout~=infobox] img {
   display: block;
   margin: auto;
@@ -135,17 +129,5 @@ h1, h2, h3, h4, h5, h6,
   --table-column-alt-background: transparent;
   --table-border-color: transparent;
   --table-header-border-color: transparent;
-}
-.callout.callout[data-callout~=infobox][data-callout-metadata~=wikipedia] table tr:last-child {
-  margin-bottom: 2px;
-}
-.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] {
-  --table-border-color: var(--background-modifier-border);
-}
-.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] th:first-child, .callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] tr td:first-child {
-  border-left-color: transparent;
-}
-.callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] th:last-child, .callout.callout[data-callout~=infobox][data-callout-metadata~=table-border] tr td:last-child {
-  border-right-color: transparent;
 }
 
