@@ -2,21 +2,39 @@
 {"dg-publish":true,"permalink":"/europa-zachodnia/francja-i-anglia/krolestwo-burgundii/"}
 ---
 
+> [!infobox|wikipedia]+
+> # Królestwo Burgundii
+> ###### od 1363
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ancient_Flag_of_Burgundy.svg/1920px-Ancient_Flag_of_Burgundy.svg.png"><img>
+> ###### Informacje ogólne
+> **Stolica** | Dijon|  
+> ---|---|  
+> **Języki** | **francuski (oficjalny)**<br>burgundzki, franko-prowansalski, flamandzki<br>
+> **Religia** | Katolicyzm Rzymski (od 1363-1429, od 1473)<br>Katolicyzm Awinioński (1429-1473)
+> **Rodzaj rządów** | Monarchia 
+> **Władza Ustawodawcza** | Stany Burgundzkie (w Burgundii)
+> ###### Ważniejsi Władcy 
+> Książę Burgundii<br>(1363-1430) | Król Burgundii<br>(od 1430) |
+> ---|---|  
+> - 1363-1404 | [[Filip II Śmiały\|Filip II Śmiały]]
+> - 1404-1419 | [[Jan bez Trwogi\|Jan bez Trwogi]]
+> - 1419-1458 | [[Jan III Dobry\|Jan III Dobry]]
+> - 1458-1500 | [[Europa Zachodnia/Francja i Anglia/Wiktoria Luiza\|Wiktoria Luiza]]
 ## Władcy Burgundii:
 ---
 ##### Dynastia Burgundzka (gąłąź dynastii Walezjuszów):
 *Osobny artykuł: [[Burgundczycy - drzewo.canvas|Dynastia Burgundzka]]*
 
-***Książęta** Burgundii*:
-[[Filip II Śmiały\|Filip II Śmiały]] (1363-1404)
-[[Jan bez Trwogi\|Jan bez Trwogi]] (1404-1419)
-[[Filip III Dobry\|Filip III Dobry]] (1419-1437) - od 1437 król
+**Książęta** Burgundii:
+- [[Filip II Śmiały\|Filip II Śmiały]] (1363-1404)
+- [[Jan bez Trwogi\|Jan bez Trwogi]] (1404-1419)
+- [[Filip III Dobry\|Filip III Dobry]] (1419-1437) - od 1437 król
 
-***Królowie** Burgundii:*
-[[Filip III Dobry\|Filip III Dobry]] (1437-1458)
-[[Europa Zachodnia/Francja i Anglia/Karol Ślepy\|Karol Ślepy]] (1458-1480) 
-[[Europa Zachodnia/Francja i Anglia/Wiktoria Luiza\|Wiktoria Luiza]] (*de iure* 1462-1480, *de facto* 1480-1500) 
-[[Filip IV Burgundzki\|Filip IV]] (od 1500)
+**Królowie** Burgundii:
+- [[Filip III Dobry\|Filip III Dobry]] (1437-1458)
+- [[Europa Zachodnia/Francja i Anglia/Karol Ślepy\|Karol Ślepy]] (1458-1480) 
+- [[Europa Zachodnia/Francja i Anglia/Wiktoria Luiza\|Wiktoria Luiza]] (*de iure* 1462-1480, *de facto* 1480-1500) 
+- [[Filip IV Burgundzki\|Filip IV]] (od 1500)
 
 
 ## Budowa państwa burgundzkiego
