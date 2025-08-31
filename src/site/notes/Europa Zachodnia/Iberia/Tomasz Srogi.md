@@ -7,14 +7,14 @@
 > # Tomasz Srogi
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/ThomasWoodstock.jpg/800px-ThomasWoodstock.jpg"><img>
 >###### Król Portugalii
-> **Panowanie** |  1383-1397 |  
+> **Panowanie** | 1383-1397 |  
 > ---|---|  
 > **Poprzednik** | [[Ferdynand I Burgundzki\|Ferdynand I Burgundzki]]
 > **Następca** | [[Edward Portugalski\|Edward Portugalski]]
 >  ###### Informacje ogólne
 >   **Dynastia** | [[Plantageneci\|Plantageneci]] | 
 >   ---|---|
-> **Narodziny** | 1455, Valenciennes | 
+> **Narodziny** | 1355, Valenciennes | 
 > **Śmierć** | 1393, Porto | 
 > **Żona** | [[Beatrycze Portugalska\|Beatrycze Portugalska]] | 
 > **Dzieci** | [[Edward Portugalski\|Edward Portugalski]]<br>[[Jan I Waleczny\|Jan I Waleczny]] | 
