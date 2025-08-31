@@ -15,7 +15,7 @@
 > **Narodziny** | 1334, Burgos | 
 > **Śmierć** | 1405, Valladolid | 
 > **Żona** | Blanka de Burbon | 
-> **Dzieci** | [[Europa Zachodnia/Iberia/Alfonso XII Okrutny\|Alfonso XII Okrutny]]<br>[[Ferdynand V Waleczny\|Ferdynand V Waleczny]] | 
+> **Dzieci** | [[Europa Zachodnia/Iberia/Alfonso XII Okrutny\|Alfonso XII Okrutny]]<br>[[Europa Zachodnia/Iberia/Ferdynand V Waleczny\|Ferdynand V Waleczny]] | 
 >**Ojciec** | [[Alfons XI\|Alfons XI]] | 
 >**Matka** | Maria Portugalska |
 
