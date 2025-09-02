@@ -31,7 +31,7 @@
 >> *Osobny artykuł: [[Plantageneci\|Plantageneci]]*
 * [[Europa Zachodnia/Francja i Anglia/Henryk V Angevin\|Henryk V „Angevin”]] (1422-55)
 - [[Ryszard III Plantagenet\|Ryszard III „Poeta”]] (1455-82)
-- [[Edward IV Plantagenet\|Edward IV Plantagenet]] (od 1482)
+- [[Edward IV Plantagenet\|Edward IV]] (od 1482)
 ## Historia
 --- 
 >> *Osobny artykuł:* [[Europa Zachodnia/Francja i Anglia/Wojna stuletnia\|Wojna stuletnia]]
